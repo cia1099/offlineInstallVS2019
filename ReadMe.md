@@ -14,6 +14,7 @@ vs_community__477180316.1572016098.exe --layout D:\Download\vslayout ^
 --add Microsoft.VisualStudio.Component.VC.CMake.Project ^
 --add Microsoft.VisualStudio.Component.VC.Llvm.Clang ^
 --add Microsoft.VisualStudio.Component.VC.Llvm.ClangToolset ^
+--add Microsoft.VisualStudio.Workload.ManagedDesktop ^
 --addProductLang zh-CN ^
 --addProductLang zh-TW ^
 --addProductLang en-US ^
@@ -33,6 +34,7 @@ vs_community__477180316.1572016098.exe --installPath "D:\Program_Files\Microsoft
 --add Microsoft.VisualStudio.Component.VC.CMake.Project ^
 --add Microsoft.VisualStudio.Component.VC.Llvm.Clang ^
 --add Microsoft.VisualStudio.Component.VC.Llvm.ClangToolset ^
+--add Microsoft.VisualStudio.Workload.ManagedDesktop ^
 --includeRecommended --noWeb --nocache
 ```
 註解：
